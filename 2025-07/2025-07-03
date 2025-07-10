@@ -1,0 +1,95 @@
+# JUL/03/2025 — Conocimientos sobre PoC, Jupyter, Anaconda y el programa de Intel
+
+## ¿Qué es un PoC (Proof of Concept)?
+Un **PoC** (*Prueba de Concepto*) es una **demostración temprana y simplificada** que permite:
+
+- Evaluar el **impacto** y **viabilidad técnica** de una idea.  
+- Analizar sus **limitaciones**, **implicaciones** y **posibles resultados**.  
+- Determinar si la solución propuesta merece ser desarrollada más a fondo.
+
+Este tipo de pruebas es común en entornos de innovación, startups y desarrollo tecnológico, donde se busca validar una hipótesis con **el menor esfuerzo posible**, antes de escalar.
+
+---
+
+## ¿Qué es Jupyter Notebook?
+**Jupyter Notebook** es una herramienta clave en **ciencia de datos**, **inteligencia artificial** y **programación en Python**. Es una **aplicación web interactiva** que permite:
+
+- Escribir y ejecutar código en **tiempo real**.  
+- Incluir explicaciones en **texto**, **gráficos**, **imágenes**, **ecuaciones** y más.  
+- Integrar otros lenguajes además de Python, como R o Julia.
+
+> Los notebooks se guardan como archivos con extensión `.ipynb`, el formato estándar de Jupyter.
+
+---
+
+## Convocatoria de Intel: *Acelerando México con Inteligencia Artificial 2025*
+Descubrí la iniciativa de Intel llamada **"Acelerando México con IA 2025"**, la cual invita a desarrollar y presentar **PoC’s sin una temática específica**, siempre y cuando **utilicen IA** como eje central para:
+
+- Resolver problemas actuales.  
+- Generar innovación.  
+- Impulsar nuevas ideas y proyectos.
+
+Este programa representa una gran oportunidad para experimentar, aprender y destacar.
+
+---
+
+## ¿Qué es Anaconda?
+**Anaconda** es una distribución gratuita y de código abierto de Python, ampliamente usada para:
+
+- Ciencia de datos.  
+- Inteligencia artificial.  
+- Análisis científico.  
+- Aprendizaje automático (*Machine Learning*).
+
+Incluye herramientas como **Jupyter Notebook**, **Spyder**, y gestores de paquetes como **conda**, facilitando un entorno listo para trabajar con datos.
+
+> Sitio oficial: [anaconda.com](https://www.anaconda.com)
+
+---
+
+# 🇺🇸 English Version
+
+## JUL/03/2025 — Insights on PoC, Jupyter, Anaconda and Intel’s Program
+
+### What is a PoC (Proof of Concept)?
+A **PoC** is a **preliminary and simplified demonstration** that allows:
+
+- Evaluating the **technical feasibility** and **potential impact** of an idea.  
+- Understanding its **limitations**, **implications**, and **expected outcomes**.  
+- Deciding whether the idea is worth developing further.
+
+PoCs are frequently used in tech environments to **validate ideas quickly** and **minimize risk** before full development.
+
+---
+
+### What is Jupyter Notebook?
+**Jupyter Notebook** is a powerful tool for **data science**, **AI**, and **Python programming**. It is an **interactive web-based environment** that allows:
+
+- Writing and executing code in **real time**.  
+- Including **text explanations**, **charts**, **images**, **math equations**, etc.  
+- Using multiple programming languages such as Python, R, and Julia.
+
+> Notebooks are saved with the `.ipynb` extension, Jupyter’s standard format.
+
+---
+
+### Intel Program: *Acelerando México con Inteligencia Artificial 2025*
+I discovered Intel’s program called **"Accelerating Mexico with AI 2025"**, which invites participants to submit **PoCs without a required topic**, as long as they apply **artificial intelligence** to:
+
+- Solve real-world problems.  
+- Drive innovation.  
+- Spark new ideas and technologies.
+
+This is a valuable opportunity to learn and explore AI.
+
+---
+
+### What is Anaconda?
+**Anaconda** is a free, open-source Python distribution focused on:
+
+- Data science.  
+- Artificial intelligence.  
+- Scientific computing.  
+- Machine learning.
+
+It comes with popular tools like **Jupyter Notebook**, **Spyder**, and the **conda** package manager, offering a ready-to-use data analysis environment.
