@@ -1,3 +1,1 @@
-# JULY 2025
-
-Notas diarias de Julio-2025
+# Daily Notes - July 2025
